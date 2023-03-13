@@ -1,0 +1,35 @@
+h1,.mydiv
+{
+    background-color: brown;
+    color: white;
+}
+h1
+{
+    text-align: center;
+    padding: 10px;
+}
+.mydiv
+{
+    margin: 100px;
+    padding: 30px;
+}
+.table
+{
+    margin: 100px 0px 0px 200px;
+    width: 70%;
+}
+.head
+{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.add
+{
+    margin-left: 200px;
+    margin-top: 5px;
+}
+.mybtn
+{
+    font-size: 14px;
+}
